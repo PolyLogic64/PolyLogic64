@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- <img src="https://github.com/PolyLogic64/PolyLogic64/assets/50244580/30a21719-f261-4a3b-a3fd-edee0673f562" width="15"/> [Me](https://polylogic64.github.io)
+
 <!--
 **PolyLogic64/PolyLogic64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
