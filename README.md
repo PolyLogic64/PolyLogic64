@@ -1,6 +1,9 @@
 ### Hi there 👋
+<pre>
+<img src="assets/polylogic.png" width="15"/> <a href="https://polylogic64.github.io">Me</a>
+└ <img src="assets/polylogic.png" width="15"/> <a href="https://polylogic64.github.io">Bruh</a>
+</pre>
 
-- <img src="assets/polylogic.png" width="15"/> [Me](https://polylogic64.github.io)
 
 <!--
 **PolyLogic64/PolyLogic64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
