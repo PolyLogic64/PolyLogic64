@@ -1,4 +1,4 @@
-### Hi there 👋
+The fuck do you put in a profile's README...
 
 <!--
 **PolyLogic64/PolyLogic64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
